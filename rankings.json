@@ -1,0 +1,122 @@
+[
+  {
+    "topic": "Most popular video games of all time (by number of players)",
+    "top_10": ["Minecraft", "Grand Theft Auto V", "Wii Sports", "PlayerUnknown's Battlegrounds", "Tetris", "Mario Kart 8 Deluxe", "Red Dead Redemption 2", "The Elder Scrolls V: Skyrim", "Call of Duty: Modern Warfare (2019)", "Terraria"]
+  },
+  {
+    "topic": "Most watched television shows in the 21st century (by viewership)",
+    "top_10": ["M*A*S*H", "Cheers", "Seinfeld", "Super Bowl", "NCIS", "American Idol", "Game of Thrones", "The Big Bang Theory", "Friends", "Grey's Anatomy"]
+  },
+  {
+    "topic": "Biggest animal species (by average weight of individuals)",
+    "top_10": ["Blue Whale", "African Bush Elephant", "White Rhinoceros", "Indian Rhinoceros", "Hippopotamus", "Giraffe", "Gaur", "Greenland Whale", "Saltwater Crocodile", "Polar Bear"]
+  },
+  {
+    "topic": "Species with most total biomass (by total weight of all individuals)",
+    "top_10": ["Plants", "Bacteria", "Fungi", "Krill", "Nematodes", "Arthropods", "Mollusks", "Fish", "Protists", "Viruses"]
+  },
+  {
+    "topic": "Cities that receive the most tourists (by number of visitors)",
+    "top_10": ["Bangkok", "Paris", "London", "Dubai", "Singapore", "Kuala Lumpur", "New York", "Istanbul", "Tokyo", "Antalya"]
+  },
+  {
+    "topic": "Monuments that receive the most tourists (by number of visitors)",
+    "top_10": ["Great Wall of China", "Taj Mahal", "Colosseum", "Eiffel Tower", "Statue of Liberty", "Machu Picchu", "Christ the Redeemer", "Pyramids of Giza", "Forbidden City", "Stonehenge"]
+  },
+  {
+    "topic": "Highest grossing film franchises (by total box office revenue)",
+    "top_10": ["Marvel Cinematic Universe", "Star Wars", "Harry Potter", "James Bond", "Fast & Furious", "Middle-earth", "Spider-Man", "DC Extended Universe", "X-Men", "Mission: Impossible"]
+  },
+  {
+    "topic": "Countries with the most UNESCO World Heritage Sites",
+    "top_10": ["Italy", "China", "Germany", "France", "Spain", "India", "Mexico", "United Kingdom", "Russia", "Iran"]
+  },
+  {
+    "topic": "Most spoken languages in the world (by number of native speakers)",
+    "top_10": ["Mandarin Chinese", "Spanish", "English", "Hindi", "Bengali", "Portuguese", "Russian", "Japanese", "Western Punjabi", "Marathi"]
+  },
+  {
+    "topic": "Largest economies in the world (by nominal GDP)",
+    "top_10": ["United States", "China", "Japan", "Germany", "India", "United Kingdom", "France", "Italy", "Canada", "Brazil"]
+  },
+  {
+    "topic": "Tallest buildings in the world (by height)",
+    "top_10": ["Burj Khalifa", "Merdeka 118", "Shanghai Tower", "Abraj Al-Bait Clock Tower", "Ping An Finance Centre", "Lotte World Tower", "One World Trade Center", "Guangzhou CTF Finance Centre", "Tianjin CTF Finance Centre", "CITIC Tower"]
+  },
+  {
+    "topic": "Most valuable companies in the world (by market capitalization)",
+    "top_10": ["Apple", "Microsoft", "Saudi Aramco", "Alphabet (Google)", "Amazon", "NVIDIA", "Meta (Facebook)", "Berkshire Hathaway", "Taiwan Semiconductor Manufacturing", "Eli Lilly"]
+  },
+  {
+    "topic": "Best-selling music artists of all time (by estimated record sales)",
+    "top_10": ["The Beatles", "Elvis Presley", "Michael Jackson", "Elton John", "Madonna", "Garth Brooks", "Rihanna", "Mariah Carey", "Taylor Swift", "Led Zeppelin"]
+  },
+  {
+    "topic": "Longest rivers in the world (by length)",
+    "top_10": ["Nile", "Amazon", "Yangtze", "Mississippi-Missouri-Red Rock", "Yenisey-Angara-Selenga", "Yellow River", "Ob-Irtysh", "Congo", "Amur-Argun", "Lena"]
+  },
+  {
+    "topic": "Largest islands in the world (by area)",
+    "top_10": ["Greenland", "New Guinea", "Borneo", "Madagascar", "Baffin Island", "Sumatra", "Honshu", "Victoria Island", "Great Britain", "Ellesmere Island"]
+  },
+  {
+    "topic": "Highest mountain peaks in the world (by elevation)",
+    "top_10": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse", "Makalu", "Cho Oyu", "Dhaulagiri", "Manaslu", "Nanga Parbat", "Annapurna I"]
+  },
+  {
+    "topic": "Countries with the largest military expenditure (by USD)",
+    "top_10": ["United States", "China", "Russia", "India", "Saudi Arabia", "United Kingdom", "Germany", "France", "Japan", "Ukraine"]
+  },
+  {
+    "topic": "Most visited museums in the world (by number of visitors)",
+    "top_10": ["Louvre Museum", "National Museum of China", "Vatican Museums", "Metropolitan Museum of Art", "British Museum", "National Gallery", "National Palace Museum", "State Hermitage Museum", "Tate Modern", "National Museum of Natural History"]
+  },
+  {
+    "topic": "Most followed accounts on Instagram (by number of followers)",
+    "top_10": ["Instagram", "Cristiano Ronaldo", "Lionel Messi", "Selena Gomez", "Kylie Jenner", "Dwayne Johnson", "Ariana Grande", "Kim Kardashian", "Beyoncé", "Khloe Kardashian"]
+  },
+  {
+    "topic": "Best-selling books of all time (by estimated sales)",
+    "top_10": ["Don Quixote", "A Tale of Two Cities", "The Little Prince", "Harry Potter and the Sorcerer's Stone", "And Then There Were None", "Dream of the Red Chamber", "The Hobbit", "The Lion, the Witch and the Wardrobe", "She: A History of Adventure", "The Da Vinci Code"]
+  },
+  {
+    "topic": "Most Olympic medals won by a country (by total medals)",
+    "top_10": ["United States", "Soviet Union", "Great Britain", "China", "France", "Italy", "Germany", "Sweden", "Hungary", "Russia"]
+  },
+  {
+    "topic": "Largest deserts in the world (by area)",
+    "top_10": ["Antarctic Polar Desert", "Arctic Polar Desert", "Sahara Desert", "Arabian Desert", "Gobi Desert", "Patagonian Desert", "Australian Desert", "Kalahari Desert", "Syrian Desert", "Great Basin Desert"]
+  },
+  {
+    "topic": "Countries with the highest life expectancy (by years)",
+    "top_10": ["Monaco", "Hong Kong", "Macau", "Japan", "Singapore", "Italy", "Spain", "Switzerland", "Australia", "Liechtenstein"]
+  },
+  {
+    "topic": "Cities with the highest cost of living (by index score)",
+    "top_10": ["Singapore", "Zurich", "Geneva", "Basel", "Bern", "New York", "London", "Nassau", "Los Angeles", "Copenhagen"]
+  },
+  {
+    "topic": "Most popular dog breeds (by registration statistics)",
+    "top_10": ["French Bulldog", "Labrador Retriever", "Golden Retriever", "German Shepherd", "Poodle", "Bulldog", "Rottweiler", "Beagle", "Dachshund", "German Shorthaired Pointer"]
+  },
+  {
+    "topic": "Hottest inhabited places on Earth (by average temperature)",
+    "top_10": ["Death Valley, USA", "Al Aziziyah, Libya", "Lut Desert, Iran", "Dallol, Ethiopia", "Wadi Halfa, Sudan", "Tirat Zvi, Israel", "Ghadames, Libya", "Kebili, Tunisia", "Timbuktu, Mali", "Bilma, Niger"]
+  },
+  {
+    "topic": "Highest-grossing Broadway shows of all time (by cumulative gross)",
+    "top_10": ["The Lion King", "Wicked", "The Phantom of the Opera", "Hamilton", "Chicago", "Mamma Mia!", "Cats", "Les Misérables", "The Book of Mormon", "Miss Saigon"]
+  },
+  {
+    "topic": "Most downloaded mobile apps (by total downloads)",
+    "top_10": ["Facebook", "WhatsApp", "Instagram", "Messenger", "TikTok", "YouTube", "Twitter/X", "Spotify", "Telegram", "CapCut"]
+  },
+   {
+    "topic": "Biggest stadiums in the world (by capacity)",
+    "top_10": ["Narendra Modi Stadium", "Rungrado 1st of May Stadium", "Michigan Stadium", "Beaver Stadium", "Ohio Stadium", "Tiger Stadium", "Kyle Field", "Neyland Stadium", "Darrell K Royal-Texas Memorial Stadium", "Bryant-Denny Stadium"]
+  },
+  {
+    "topic": "Most active volcanoes (by frequency of eruptions)",
+    "top_10": ["Kilauea", "Mount Etna", "Stromboli", "Mount Yasur", "Pacaya", "Santa Maria", "Sheveluch", "Erebus", "Piton de la Fournaise", "Sakurajima"]
+  }
+]
